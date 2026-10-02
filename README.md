@@ -2,7 +2,7 @@
 
 Backend developer in the Western Cape, South Africa. Mechanical engineer (M.Eng) turned software developer, after years of building ERP systems for the factories I worked in.
 
-- **At work:** .NET 10 APIs on SQL Server and AWS, managed with Terraform and GitHub Actions. I also build the team's AI tooling: Claude Code skills, an MCP server over our production logs, and an agent that triages production errors overnight.
+- **At work:** .NET 10 APIs on SQL Server and AWS, managed with Terraform and GitHub Actions. I also build some of the team's AI tooling: Claude Code skills, an MCP server over our production logs, and an agent that triages production errors overnight.
 - **After hours:** local-first apps on Cloudflare Workers, React and Kotlin, and websites for family and businesses I want to support.
 
 ## Projects
